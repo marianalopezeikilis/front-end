@@ -3,7 +3,9 @@
 function Footer() {
     return (
         <>
-        <p> Hola soy el Footer</p>
+
+<div class="panel-footer border">
+<button type="button" id="btnSave" class="btn btn-default pull-right "> Politica Privacidad</button> </div>
         </>
 
     )
