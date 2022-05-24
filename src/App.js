@@ -9,6 +9,8 @@ function App() {
   return (
     <div>
     <Nav/>
+    <DivCentral/>
+    <Footer/>
   </div>
   );
 }
